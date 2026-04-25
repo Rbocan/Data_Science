@@ -10,7 +10,7 @@ Each project applies real statistical and data science techniques to practical e
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Project 1 — TBD] | *(Add description)* | Python, Pandas |
+| [Semiconductor Pass/Fail Classification](01_ML_Semiconductor_Classification/README.md) | Binary classification on 44K-unit HVM semiconductor test data — Decision Tree achieves 99.14% accuracy, Kappa 0.953 | Python, Scikit-learn, imbalanced-learn, Pandas, Seaborn |
 | [Project 2 — TBD] | *(Add description)* | Python, Scikit-learn |
 | [Project 3 — TBD] | *(Add description)* | Python, Matplotlib |
 
@@ -25,6 +25,7 @@ Each project applies real statistical and data science techniques to practical e
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-orange?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
 ---
